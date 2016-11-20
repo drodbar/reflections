@@ -7,6 +7,7 @@ What value do you think it offers?
 * This allows to split commits in logical unit improving history organisation.
 How can you use the staging area to make sure you have one commit per logical
 change?
+  All you must do is to add those files (or lines) containing the changed that you want to add onto your commit before actually commiting.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
